@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.stigvid" name="StigVid" version="1.0.0" provider-name="Stigma">
+<addon id="plugin.video.stigvid" name="StigVid" version="1.0.1" provider-name="Stigma">
 	<requires>
 		<import addon="xbmc.python" version="3.0.0"/>
 		<import addon="script.module.requests"/>
@@ -12,8 +12,8 @@
 		<provides>video</provides>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en_GB">Come here for the latest.</summary>
-		<description lang="en_GB">#1 Video Addon 2024</description>
+		<summary lang="en_GB">Experience the pinnacle of home entertainment with the StigVid Addon.</summary>
+		<description lang="en_GB">Experience the pinnacle of home entertainment with the StigVid Addon. This exceptional addon transforms your Kodi platform into a comprehensive multimedia hub, offering an unparalleled array of streaming options that cater to every taste and preference. Whether you are a movie enthusiast, a TV series binge-watcher, or a documentary aficionado, this addon provides a seamless and immersive viewing experience that is second to none.</description>
 		<platform>all</platform>
 		<license>GPL-3.0-or-later</license>
 		<website></website>
