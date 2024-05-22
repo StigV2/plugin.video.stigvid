@@ -12,8 +12,8 @@
 		<provides>video</provides>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en_GB">Experience the pinnacle of home entertainment with the StigVid Addon.</summary>
-		<description lang="en_GB">Experience the pinnacle of home entertainment with the StigVid Addon. This exceptional addon transforms your Kodi platform into a comprehensive multimedia hub, offering an unparalleled array of streaming options that cater to every taste and preference. Whether you are a movie enthusiast, a TV series binge-watcher, or a documentary aficionado, this addon provides a seamless and immersive viewing experience that is second to none.</description>
+		<summary lang="en_GB">Experience the pinnacle of home entertainment with StigVid.</summary>
+		<description lang="en_GB">Experience the pinnacle of home entertainment with StigVid. This exceptional addon transforms your Kodi platform into a comprehensive multimedia hub, offering an unparalleled array of streaming options that cater to every taste and preference. Whether you are a movie enthusiast or a TV series binge-watcher, this addon provides a immersive viewing experience that is second to none.</description>
 		<platform>all</platform>
 		<license>GPL-3.0-or-later</license>
 		<website></website>
